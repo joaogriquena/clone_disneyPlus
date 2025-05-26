@@ -1,6 +1,6 @@
 # Clone Disney+
 
-![Disney Plus Logo](./dist/images/disneyplus.svg)
+![Disney Plus Logo](disneyplus.svg)
 
 ## Sobre o Projeto
 
